@@ -17,3 +17,12 @@ ollama
 
 Expected output
 ![image](https://github.com/user-attachments/assets/159e2d1d-3eaf-4020-a091-4d47a4d995ee)
+
+## Download a model to run locally within Ollama
+```
+ollama pull llama3.2
+```
+
+Expected output
+![image](https://github.com/user-attachments/assets/6f45efcc-406e-4d08-a453-ed69f8246a33)
+![image](https://github.com/user-attachments/assets/37cd90ea-d574-427d-906e-fa5b00caa972)
