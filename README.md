@@ -87,3 +87,8 @@ ollama list
 ```
 ![image](https://github.com/user-attachments/assets/8b2c1630-ce19-45c9-b643-4f4fb9d0d63f)
 
+## For more models, check the below url
+<pre>
+https://ollama.com/library  
+</pre>
+![image](https://github.com/user-attachments/assets/4dfb55d1-0e2b-405e-b6d9-bfeb9eeb2382)
