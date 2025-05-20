@@ -50,3 +50,9 @@ Follow up question
 How to run this application
 ```
 ![image](https://github.com/user-attachments/assets/61cd3c33-6d67-483e-bed9-06794858e1a3)
+
+Once you are done with your queries, you can quit
+```
+/bye
+```
+![image](https://github.com/user-attachments/assets/b9d95c78-3226-4f09-b288-79b82446e296)
