@@ -26,3 +26,11 @@ ollama pull llama3.2
 Expected output
 ![image](https://github.com/user-attachments/assets/6f45efcc-406e-4d08-a453-ed69f8246a33)
 ![image](https://github.com/user-attachments/assets/37cd90ea-d574-427d-906e-fa5b00caa972)
+
+## Run the model downloaded locally
+```
+ollama run llama3.2 "Can you explain what are your capabilities?"
+```
+
+Expected output
+![image](https://github.com/user-attachments/assets/211772fb-981c-43e1-8070-f6b5f20b5843)
