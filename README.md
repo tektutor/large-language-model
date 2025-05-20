@@ -49,4 +49,4 @@ Follow up question
 ```
 How to run this application
 ```
-![image](https://github.com/user-attachments/assets/7cb7f319-a423-4f58-9a3e-aabc728d8b4b)
+![image](https://github.com/user-attachments/assets/61cd3c33-6d67-483e-bed9-06794858e1a3)
