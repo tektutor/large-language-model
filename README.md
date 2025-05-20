@@ -34,3 +34,19 @@ ollama run llama3.2 "Can you explain what are your capabilities?"
 
 Expected output
 ![image](https://github.com/user-attachments/assets/211772fb-981c-43e1-8070-f6b5f20b5843)
+
+
+## Asking the model to write simple programs
+```
+ollama run llama3.2
+Can you write a Hello World C++ Program?
+```
+
+Expected output
+![image](https://github.com/user-attachments/assets/3abdefaf-ae0e-4df7-999f-7c10c976275e)
+
+Follow up question
+```
+How to run this application
+```
+![image](https://github.com/user-attachments/assets/7cb7f319-a423-4f58-9a3e-aabc728d8b4b)
